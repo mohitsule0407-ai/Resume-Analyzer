@@ -1,3 +1,4 @@
+
 function analyzeResume(text) {
     // Normalize text
     text = text.replace(/\r?\n|\r/g, " ").replace(/\s+/g, " ").toLowerCase();
